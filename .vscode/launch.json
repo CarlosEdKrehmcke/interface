@@ -1,0 +1,52 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Calculadora",
+            "request": "launch",
+            "mainClass": "Calculadora"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JScrollPaneExemplo",
+            "request": "launch",
+            "mainClass": "JScrollPaneExemplo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JTextAreaExemplo",
+            "request": "launch",
+            "mainClass": "JTextAreaExemplo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JTextFieldExemplo",
+            "request": "launch",
+            "mainClass": "JTextFieldExemplo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExemploFrame",
+            "request": "launch",
+            "mainClass": "ExemploFrame"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JButtonExemplo",
+            "request": "launch",
+            "mainClass": "JButtonExemplo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Teste",
+            "request": "launch",
+            "mainClass": "Teste"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JLabelExemplo",
+            "request": "launch",
+            "mainClass": "JLabelExemplo"
+        }
+    ]
+}
